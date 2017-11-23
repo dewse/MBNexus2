@@ -1,0 +1,28 @@
+FF14 MISSING ELEMENTS:
+
+In-game Calendar (think WoW)
+Notes for MB prices.
+RP layering (think MRP)
+
+Add a value per time.
+
+  Example: An item has HQ prices so close to the normal, so
+  you want to know if mass crafting it is better than
+  finding an item that has a higher profit but must be manually
+  crafted.
+
+1 mass craft (6.5sec~)
+
+Speed Manual Craft (8secs~)
+  - Manual, but rushing progress.
+  - 1% quality
+  - Fastest means to mass produce without failure
+    while grinding the XP while leveling.
+
+Paced Manual craft (12secs~)
+   - Starter macro, but manual finish.
+   - 20-100% quality
+
+Expert Manual Craft (20 secs)
+   - Entirely manual with high deviations
+   - 40-100% quality

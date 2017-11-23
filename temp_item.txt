@@ -1,0 +1,3 @@
+This is the text written for "temp_item".
+
+This is another paragraph in the same doc.
